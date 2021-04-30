@@ -5,12 +5,18 @@ sleep-genomics-useful-functions is a collection of useful functions used in slee
 ## Content
 
 close_test: a closed test procedure to pick the best model in external validation of prediction equation models.
-multiple_comparison_correction: multi-layer FDR control for grouped hypotheses
-table_manipulation: merging tables (e.g. baseline demographic characteristic tables) with and without sampling weight
-
 ```{r}
 ### place holder
 ```
+multiple_comparison_correction: multi-layer FDR control for grouped hypotheses
+```{r}
+### place holder
+```
+table_manipulation: merging tables (e.g. baseline demographic characteristic tables) with and without sampling weight
+```{r}
+### place holder
+```
+
 
 ## Usage
 
